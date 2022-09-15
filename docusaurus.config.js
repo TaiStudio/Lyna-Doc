@@ -54,7 +54,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://lyna.netlify.app/taistudio',
+            href: 'https://tai-studio.netlify.app',
             label: 'Tai Studio',
             position: 'right',
           },
