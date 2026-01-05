@@ -2,122 +2,72 @@
 title: Home
 ---
 
-# 🚨P**rérequis**
-
-Pour suivre ce tutoriel, vous devez posséder un compte GitHub.
-
-## ➕ Créer une page
-
-### 📭 Ouvrir un ticket
-
-rendez-vous sur la page suivante : [Github](https://github.com/TaiStudio/Lyna/issues/new/choose)
-
-puis sélectionnez l’option suivante:
-
-![Create your own page](/img/lyna/openpr.png)
-
-Une fois cela fait vous arrivez maintenant sur une nouvelle page, c’est ici que la magie opère 🧙‍♀️!
-
-![Edite votre pull request](/img/lyna/editpr.png)
-
-Dans un premier temps paniqué 🥴
-
-Dans un second temps changer le titre de l’issue
-
-Puis vous devez écrire dans la deuxieme partie
-
-Vous avez une [⚙️ Liste des options](#%EF%B8%8F-liste-des-options) pour vous aider à rediger votre page Lyna.
-
-:::danger 
-Attention vous devez écrire une ligne par option !
+:::danger[Projet obsolète]
+une nouvelle ère avec Lyna
 :::
 
-Une fois que vous avez terminé cliquez sur “Submit new issue”.
+## ❌ Pourquoi ce projet n’est plus nécessaire
 
-:::tip
-Vous pouvez avoir un aperçu de votre page lyna. Pour cela attendez quelques minutes pour laisser le robot 🤖 la crée puis rendez-vous dans l'onglet “Pull requests” et cherchez le nom de votre page. Sur cette nouvelle page, un utilisateur appelé “Netlify” à écrit un message
+Le projet que nous connaissions jusqu’à présent est désormais **obsolète**. En effet, les fonctionnalités qu’il proposait sont maintenant **intégrées directement dans Lyna**, rendant ce projet redondant et inutile à maintenir.
+
+## ✨ Une solution plus simple et plus puissante
+
+Il est désormais possible **d’éditer sa page Lyna et de la personnaliser facilement** sans passer par des outils externes ou des configurations complexes.
+
+Tout se fait directement depuis la plateforme officielle :
+
+👉 **https://lyna.taistudio.fr**
+
+## 🛠️ Personnalisation simplifiée
+
+Depuis l’interface Lyna, vous pouvez :
+- Modifier le contenu de votre page
+- Personnaliser l’apparence (textes, liens, visuels)
+- Visualiser les changements en temps réel
+- Gérer votre page de manière autonome et intuitive
+
+Cette approche centralisée permet un gain de temps considérable et une meilleure cohérence avec l’écosystème Lyna.
+
+## 🚀 Conclusion
+
+Avec l’arrivée de ces nouvelles fonctionnalités natives, ce projet n’a plus lieu d’être.  
+Nous recommandons vivement d’utiliser **Lyna directement via son interface officielle** pour bénéficier des dernières mises à jour, d’une meilleure expérience utilisateur et d’une maintenance simplifiée.
+
+**Le futur de la personnalisation Lyna commence ici :**  
+🔗 https://lyna.taistudio.fr
+
+-----
+
+:::danger[Project Deprecated]
+A New Era with Lyna
 :::
 
-![Untitled](/img/lyna/rp.png)
+## ❌ Why This Project Is No Longer Needed
 
-## ✏️ Éditer une page
+This project is now **deprecated**. The features it previously provided are now **built directly into Lyna**, making this project redundant and unnecessary to maintain.
 
-Pour éditer une page lyna c’est le même procédé [➕ Créer une page](#-créer-une-page) mais vous devez sélectionner l’option suivante:
+## ✨ A Simpler and More Powerful Solution
 
-![Untitled](/img/lyna/editpage.png)
+You can now **edit and customize your Lyna page easily** without relying on external tools or complex configurations.
 
-## ⚙️ Liste des options
+Everything is available directly on the official platform:
 
-### 🪧 Changer le nom
+👉 **https://lyna.taistudio.fr**
 
-```markdown
-### Your name
-```
+## 🛠️ Easy Customization
 
-### 📝 Changer la description
+From the Lyna interface, you can:
+- Edit your page content
+- Customize the appearance (text, links, visuals)
+- Preview changes in real time
+- Manage your page independently with an intuitive UI
 
-```markdown
-## Your description ..........
-```
+This centralized approach saves time and ensures better consistency across the Lyna ecosystem.
 
-### 🎨 Changer l’avatar
+## 🚀 Conclusion
 
-```markdown
-Logo: ![lyna](https://lyna.netlify.app/pages/home/lyna.png)
-```
+With these new native features, this project is no longer relevant.  
+We strongly recommend using **Lyna directly through its official interface** to benefit from the latest updates, an improved user experience, and simplified maintenance.
 
-:::tip
-Vous pouvez glisser déposer vos images directement sur github 😉
-:::
-
-:::danger
-Votre image doit être **obligatoirement** en 512x512 pixels
-:::
-
-### 🌐 Ajouter un lien
-
-```markdown
-[Lyna](https://lyna.netlify.app/)
-```
-
-:::tip
-Vous pouvez ajouter autand de liens que vous le souhaitez, il n’y a donc aucune limite.
-:::
-
-### 🎨 Changer l'arrière plan (Optionnel)
-
-```markdown
-Background: ![background](https://lyna.netlify.app/pages/home/homeback.png)
-```
-
-:::info
-Vous pouvez glisser déposer vos images directement sur github 😉
-:::
-
-:::tip
-Les vidéos et les images sont supportés par lyna.
-:::
-:::danger
-Attention à la limitation Github, votre fichier doit faire maximum 100 MB
-:::
-
-:::danger
-Votre image doit être **obligatoirement** en 1920x1080 pixels
-::: 
-
-### 🎨 Changer les couleurs (Optionnel)
-
-```markdown
-> #1C1117, #422835, #CF711B, #808080
-```
-
-Voici à quoi correspond les couleurs:
-
-1. Couleur de fond
-2. Couleur du panneau central
-3. Couleur du texte au survol
-4. Couleur du texte
-
-### 🎵 Ajouter de la musique (Optionnel) [WIP]
-
-### 🎛️ Sélectionner une animation (Optionnel) [WIP]
+**The future of Lyna customization starts here:**  
+🔗 https://lyna.taistudio.fr
